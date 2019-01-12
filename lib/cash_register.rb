@@ -20,7 +20,7 @@ class CashRegister
     end 
     total += price * quantity
     final_amount = total
-    
+    total
     
   end 
   
