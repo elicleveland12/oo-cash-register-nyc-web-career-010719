@@ -18,6 +18,8 @@ class CashRegister
     else 
       @items << title 
     end 
+    total += price * quantity
+    final_amount = total
     
     
   end 
