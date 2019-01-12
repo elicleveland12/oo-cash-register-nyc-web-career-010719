@@ -21,7 +21,6 @@ class CashRegister
     @total += price * quantity
     @final_amount = @total
     @total
-    
   end 
   
 end
